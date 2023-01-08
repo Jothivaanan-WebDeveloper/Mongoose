@@ -1,0 +1,7 @@
+
+1. Require Mongoose,
+2. Connect to database.
+3. Initialise schema.
+4. Initialise model(Collection) with schema.
+5. Start Defining documents to the model.
+6. Save.
