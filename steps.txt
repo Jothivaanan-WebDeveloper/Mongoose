@@ -1,5 +1,5 @@
 
-1. Require Mongoose,
+1. Require Mongoose.
 2. Connect to database.
 3. Initialise schema.
 4. Initialise model(Collection) with schema.

@@ -59,7 +59,7 @@ Pet.insertMany([dog, cat],(err) => {
     }
 });
 
-// Get all documents***********************************************************************
+// Get all documents******************************************************************
 Pet.find((err,pets) => {
     if (err) {
         console.log(err);
